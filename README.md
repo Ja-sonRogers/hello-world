@@ -1,7 +1,9 @@
-###hello-world
+# hello-world project
 
 _I am learning github_
 
 **Also, I am learning markdown language**
 
-Screw your shitty change.
+I am putting much more professional text into this readme.
+
+## This is gonna turn into a cool project.
